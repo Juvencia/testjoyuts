@@ -2,6 +2,4 @@ streamlit==1.25.0
 pandas
 numpy
 plotly
-
-
-
+Pillow==10.0.1
