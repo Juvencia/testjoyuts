@@ -2,6 +2,5 @@ streamlit==1.25.0
 pandas
 numpy
 plotly
-matplotlib
-seaborn
 Pillow
+
